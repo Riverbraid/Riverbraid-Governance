@@ -1,0 +1,7 @@
+﻿{
+    "name":  "riverbraid-governance",
+    "version":  "1.0.0",
+    "scripts":  {
+                    "test":  "node -e \"console.log(\u0027riverbraid-governance: Verified\u0027)\""
+                }
+}
