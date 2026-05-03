@@ -1,0 +1,20 @@
+{
+  "repo": "Riverbraid-Governance",
+  "status": "FILES_PRESENT_UNVERIFIED",
+  "verification_scope": "governance-ceremony-structure",
+  "structural_fields_present": true,
+  "signature_present": false,
+  "signature_verified": false,
+  "claim_boundary": "ceremony-structure-only",
+  "required_files": [
+    "package.json",
+    "AUTHORITY.md",
+    "RING.md",
+    "CEREMONY.md"
+  ],
+  "missing_files": [],
+  "failure_codes": [
+    "SIGNATURE_BLOCK_MISSING"
+  ],
+  "digest": "sha256:28e74f494fcdc9e6883decfd56eaa9eecc8b6c2fc9b397c2cac5572f6af3348e"
+}
